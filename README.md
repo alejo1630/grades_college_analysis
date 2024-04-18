@@ -3,7 +3,7 @@
 A Jupyter Notebook with the analysis and prediction of Final Grades (Pass/Fail) for students of mechatronics engineering in several mechanic courses.
 
 
-## 🔰 How does it work?
+## 🔰 What is it about?
 
 The dataset contains the grade records for several students of the Mechatronics Engineering Program from 2020 to 2023. Each semesters is splitted into three periods (G1, G3, G3). The Final Grade (FG) is calculated based on the grades from each period using the following equation:
 
