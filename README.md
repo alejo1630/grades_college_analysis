@@ -82,4 +82,5 @@ In addition, some question were proposed:
 - Random Forest Classifier
 
 *The best regression model was **Logistic Regression** with a predictive score above **90%***
+
 <img src = "https://raw.githubusercontent.com/alejo1630/grades_college_analysis/main/Images/Classification.png" width = "500">
